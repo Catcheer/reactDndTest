@@ -1,2 +1,0 @@
-# reactDndTest
-Created with CodeSandbox
